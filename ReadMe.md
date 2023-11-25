@@ -8,7 +8,7 @@ Thuis is a tic-tac-toe game. The object of the game is to get three in a row hor
 I wrote this to better improve my understanding of game mechanics and frameworks.
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Demo Video](https://somup.com/c0XTqlgAnL)
 
 # Development Environment
 
